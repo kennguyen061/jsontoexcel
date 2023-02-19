@@ -1,8 +1,6 @@
-# IAG Programming Exercise
+# Programming Exercise
 
 ## Introduction
-
-IAG, as an insurance enrollment provider, handles enrollments for dozens of employers. It is often necessary for us to produce tabulated reports for our employers of which employees have enrolled each day.
 
 Given a JSON payload, produce a CSV file per employer with employees having the most family members enrolled at the top of the file and employees having the least number of enrolled family members at the bottom. For employees having the same number of enrolled family members, they should be sorted alphabetically.
 
